@@ -1,0 +1,12 @@
+{
+    "appId": "ca.ruyili.communitalk",
+    "appName": "Communitalk",
+    "bundledWebRuntime": true,
+    "npmClient": "npm",
+    "webDir": "www",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    }
+}
